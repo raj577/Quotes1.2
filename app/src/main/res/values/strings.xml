@@ -1,0 +1,97 @@
+<resources>
+    <string name="app_name">Quotes</string>
+
+
+
+    <string-array name= "quotes">
+
+        <item>All our dream can come true, if we have the courage to pursue them. – Walt Disney </item>
+
+        <item>Your attitude, not your aptitude, will determine your altitude. – Zig Ziglar </item>
+
+        <item> The Man Who Has Confidence In Himself Gains The Confidence Of Others. – Hasidic Proverb </item>
+
+        <item>What the mind can conceive and believe, it can achieve.– Napoleon Hill </item>
+
+        <item>For me, life is continuously being hungry. The meaning of life is not simply to exist, to survive, but to move ahead, to go up, to achieve, to conquer. – Arnold Schwarzenegger </item>
+
+        <item>What you seek is seeking you. – Rumi
+ </item>
+
+        <item>It is never too late to be what you might have been. —George Eliot </item>
+
+        <item>Dont worry about failure; you only have to be right once. —Drew Houston </item>
+
+        <item>The successful warrior is the average man, with laser-like focus. – Bruce Lee </item>
+
+        <item> I find that the harder I work, the more luck I seem to have. – Thomas Jefferson </item>
+
+
+        <item>  A journey of a thousand miles begins with a single step. – Lao Tzu</item>
+
+        <item>The question isnt who is going to let me; its who is going to stop me. – Ayn Rand </item>
+
+        <item>Live as if you were to die tomorrow. Learn as if you were to live forever. – Mahatma Gandhi </item>
+
+        <item>The only thing standing between you and your goal is the bullshit story you keep telling yourself as to why you cant achieve it. –  Jordan Belfort </item>
+
+        <item>When you cant change the direction of the wind, just adjust your sails. – H. Jackson Brown Jr </item>
+
+        <item>Security Is Mostly A Superstition. Life Is Either A Daring Adventure Or Nothing. – Helen Keller </item>
+
+        <item>Identify your problems but give your power and energy to solutions. – Tony Robbins </item>
+
+        <item> The best revenge is massive success. – Frank Sinatra</item>
+
+        <item> Tough times never last, but tough people do. – Dr. Robert Schuller </item>
+
+        <item> Stop chasing the money and start chasing the passion. Tony Hsieh </item>
+
+        <item>Poor people have big TVs. Rich people have a big library. – Jim Rohn </item>
+
+
+        <item>A friendship founded on business is better than a business founded on friendship. – John D. Rockefeller </item>
+
+        <item>The way to get started is to quit talking and begin doing. – Walt Disney </item>
+        <item>The biggest risk is not taking any risk. In a world that’s changing really quickly, the only strategy that is guaranteed to fail is not taking risks. – Mark Zuckerburg </item>
+
+        <item>If you don"'"t stand for something you"’"ll fall for anything. – Malcolm X </item>
+
+        <item>Don"’"t let the fear of losing be greater than the excitement of winning. – Robert Kiyosaki </item>
+
+        <item>Those who dare to fail miserably can achieve greatly. – John F. Kennedy
+ </item>
+
+        <item>Reading is to the mind, as exercise is to the body. – Brian Tracy
+ </item>
+        <item>You must expect great things of yourself before you can do them. —Michael Jordan </item>
+
+        <item> Don"’"t be afraid to give up the good to go for the great. – John D. Rockefeller </item>
+
+        <item> If you are willing to do more than you are paid to do, eventually you will be paid to do more than you do. – Anonymous </item>
+
+        <item> Make each day your masterpiece.  – John Wooden </item>
+
+        <item>Knowing Is Not Enough; We Must Apply. Wishing Is Not Enough; We Must Do. – Johann Wolfgang Von Goethe </item>
+
+        <item>If you don"’"t have a competitive advantage, don"’"t compete. – Jack Welch </item>
+
+        <item>You miss 100% of the shots you don"’"t take. – Wayne Gretzky </item>
+
+        <item>You may have to fight a battle more than once to win it. – Margaret Thatcher </item>
+
+        <item>I believe every human has a finite number of heartbeats. I don"’"t intend to waste any of mine. – Neil Armstrong </item>
+
+        <item>A goal is a dream with a deadline. – Napoleon Hill
+ </item>
+
+        <item> Imagine Your Life Is Perfect In Every Respect; What Would It Look Like? – Brian Tracy </item>
+
+        <item> First they ignore you. Then they laugh at you. Then they fight you. Then you win. –  Mahatma Gandhi</item>
+
+        <item>Do one thing every day that scares you. – Eleanor Roosevelt </item>
+
+        <item>It does not matter how slowly you go, so long as you do not stop. – Confucius </item>
+
+    </string-array>
+</resources>
